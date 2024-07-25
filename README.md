@@ -2,8 +2,8 @@
 
 <div align='center'>
   
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-nhdhieuu-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/nhdhieuu/)
-  [![Mail](https://img.shields.io/badge/Facebook-nhdhieuu-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/nhdhieuu/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-Hiếu%20Nguyễn-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/nhdhieuu/)
+  [![Mail](https://img.shields.io/badge/Facebook-Nguyễn%20Híu-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/nhdhieuu/)
   [![Mail](https://img.shields.io/badge/Gmail-duyhieu452004@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:duyhieu452004@gmail.com)
   
 </div>
@@ -19,10 +19,10 @@ Driven by a desire to make meaningful differences, I'm actively working towards 
 <h1 align='left'><samp><strong>🛠 Skills</strong></samp></h1>
 
 **Programming Languages:** <br><br>
-[![Programming Languages](https://skillicons.dev/icons?i=cs,js,java,dart)]()
+[![Programming Languages](https://skillicons.dev/icons?i=cs,js,java,dart)](https://github.com/nhdhieuu/)
 
 **Frameworks and Technologies:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter)]()
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter)](https://github.com/nhdhieuu/)
 
 
 <h1 align='left'><samp><strong>⚡ Stats</strong></samp></h1>
